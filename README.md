@@ -8,7 +8,7 @@ I graduated from Syracuse University with a B.S. in Sport Management, along with
 
 Over the last year, I've decided to pivot my career focus from marketing to software development, and I began by enrolling in, and graduating from, Flatiron School earlier in 2023. I am now equipped with a multitude of frontend and backend web development skills, specifically within JavaScript, React.js, Python, & Flask. programming environments.
 
-I've developed a few of my own apps already, which are readily accessible within the portfolio section my [personal website](https://andrew-diamond.com/), and, I am currently serving as a COO/VP of Engineering for an early stage mobile app startup venture.
+I've developed a few of my own apps already, which are readily accessible within the portfolio section of my [personal website](https://andrew-diamond.com/), and, I am currently serving as a COO/VP of Engineering for an early stage mobile app startup venture.
 
 When I'm not coding, or studying best frontend and/or backend web development practices, you can likely find me on a softball field with friends, a pickleball court with my wife, on a hike in the remote wilderness, or advising friends about which players to target in their upcoming fantasy football draft. You might also find me rooting on my favorite sports teams, the New York Mets, Knicks and Giants, but as of late, you'd likelier find me commiserating over their latest collective demonstrations of futility.
 
